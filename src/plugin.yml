@@ -1,0 +1,12 @@
+name: SimplerVanish
+main: org.kitteh.simplervanish.SV
+version: 1.0
+website: http://kitteh.org
+author: mbaxter
+description: Poof
+commands:
+  vanish:
+    description: Hide one player from another
+    usage: |
+      /vanish fromuser
+      /vanish user fromuser
